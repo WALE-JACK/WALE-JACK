@@ -1,4 +1,4 @@
-# I'm Wale Jack. A new program developer 👋
+# I'm AKINPELOYE SUNDAY. A new program developer 👋
 <!---)
 - 🔭 I’m currently working on computational skill.
 - 🌱 I’m currently learning python programming.
